@@ -1,0 +1,114 @@
+img {
+  width: 30px;
+}
+
+.container-fluid {
+  padding: 0 12px;
+}
+
+.start-a-project-container {
+  margin-bottom: 56px;
+}
+
+.start-a-project-image {
+  display: none;
+}
+
+.section-title-wrapper {
+  margin-bottom: 40px;
+}
+
+.platform {
+  margin-bottom: 16px;
+}
+
+.section-title-wrapper::before {
+  width: 190px;
+}
+
+.header {
+  display: none;
+}
+
+.start-a-project-container {
+  display: block;
+}
+
+.platform-wrapper {
+  display: block;
+}
+
+.process-wrapper {
+  display: block;
+}
+
+.section-content-wrapper {
+  display: block;
+}
+
+.what-we-do {
+  margin-bottom: 56px;
+}
+
+.latest-work-block {
+  height: auto;
+  padding: 24px 12px;
+  display: block;
+  margin-bottom: 36px;
+}
+
+.latest-work-block-image {
+  position: static;
+  width: 100%;
+}
+
+.latest-work-block-description {
+  margin-bottom: 24px;
+}
+
+.latest-work-block-1 .latest-work-block-image {
+  margin-bottom: 50px;
+}
+
+.latest-work {
+  margin-bottom: 0;
+}
+
+.process {
+  width: 100%;
+}
+
+.process-image {
+  width: 92px;
+  height: 72px;
+}
+
+.work-together {
+  margin-bottom: 60px;
+}
+
+.map {
+  width: calc(100vw - 24px);
+  height: 200px;
+  margin: 0;
+  margin-bottom: 60px;
+}
+
+.attach-wrapper img {
+  width: 10px;
+  height: 10px;
+}
+
+.contact-us {
+  margin-bottom: 56px;
+}
+
+.footer {
+  display: block;
+  text-align: center;
+}
+
+.copyright {
+  font-size: 12px;
+  line-height: 18px;
+}
